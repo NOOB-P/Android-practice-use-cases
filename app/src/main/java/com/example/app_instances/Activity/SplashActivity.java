@@ -24,6 +24,7 @@ public class SplashActivity extends AppCompatActivity {
 
         binding.startBtn.setOnClickListener(v -> {
             startActivity(new Intent(SplashActivity.this, MainActivity.class));
+            finish();
         });
     }
 }
