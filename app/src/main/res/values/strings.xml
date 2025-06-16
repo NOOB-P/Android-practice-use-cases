@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">app_instances</string>
+    <string name="explore_house_that_nfit_your_lifestyle">Explore House That\nFit Your Lifestyle</string>
+    <string name="find_your_dream_house">find your dream house</string>
+    <string name="already_have_an_account_sign_in">Already have an account? Sign in</string>
+    <string name="hi_alex">Hi, Alex</string>
+    <string name="discover_your_ndream_house">Discover Your \nDream House</string>
+    <string name="search_your_house_or_location">Search Your House or Location</string>
 </resources>
